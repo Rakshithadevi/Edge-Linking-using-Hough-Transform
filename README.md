@@ -6,7 +6,7 @@ To write a Python program to detect the lines using Hough Transform.
 Anaconda - Python 3.7
 
 ## Algorithm:
-Algorithm:
+
 ## Step1:
 Import all the necessary modules for the program.
 
@@ -82,14 +82,14 @@ plt.axis('off')
 ```
 ## Output
 
-## Input image and grayscale image
+# Input image and grayscale image
 ![image](https://user-images.githubusercontent.com/94165326/233020011-351501b7-7391-4ecc-903d-d3ee5b7dafd2.png)
 
-## Canny Edge detector output
+# Canny Edge detector output
 ![image](https://user-images.githubusercontent.com/94165326/233021450-9a832629-bcaf-41ec-8e0f-0aea89183791.png)
 
 
-## Display the result of Hough transform
+# Display the result of Hough transform
 ![image](https://user-images.githubusercontent.com/94165326/233021572-6f199dab-ace0-4bde-ab3d-bad89c362b0e.png)
 
 
